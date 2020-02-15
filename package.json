@@ -22,7 +22,7 @@
         "babel-preset-react": "^6.24.1",
         "parcel-bundler": "^1.12.3",
         "sass": "^1.22.10",
-        "yarn": "^1.17.3"
+        "yarn": "^1.22.0"
     },
     "name": "thread-s4rb",
     "version": "0.1.0",
